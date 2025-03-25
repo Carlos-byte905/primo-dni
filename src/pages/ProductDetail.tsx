@@ -73,7 +73,7 @@ export default function ProductDetail() {
             <div className="flex space-x-4">
               <button className="flex-1 bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-300 flex items-center justify-center">
                 <ShoppingCart className="h-5 w-5 mr-2" />
-                Añadir al Carrito
+                Comprar
               </button>
               <button className="p-3 rounded-lg border border-gray-300 hover:bg-gray-50 transition duration-300">
                 <Heart className="h-5 w-5 text-gray-600" />
